@@ -1,0 +1,67 @@
+{
+  "brand": {
+    "name": "Múul",
+    "tagline": "Comercios de la Riviera, juntos en un mismo lugar.",
+    "subTagline": "Plataforma · Comercio · Comunidad"
+  },
+  "nav": {
+    "discover": "Descubre",
+    "merchants": "Para comercios",
+    "signIn": "Entrar",
+    "signOut": "Salir",
+    "myOrders": "Mis pedidos",
+    "dashboard": "Panel"
+  },
+  "home": {
+    "hero": {
+      "title": "Lo local, al alcance de un click.",
+      "sub": "Reserva tours, compra arte local, paga en cualquier comercio aliado de la Riviera Maya.",
+      "cta": "Explorar comercios",
+      "ctaMerchant": "Soy un comercio"
+    },
+    "categories": {
+      "title": "Por categoría"
+    },
+    "near": {
+      "title": "Cerca de ti",
+      "empty": "Activa tu ubicación para ver comercios cercanos."
+    }
+  },
+  "merchant": {
+    "onboarding": {
+      "title": "Une tu comercio a Múul",
+      "step1": "Cuéntanos de tu negocio",
+      "step2": "Verifica tu identidad con Stripe",
+      "step3": "Carga tu primer producto",
+      "fields": {
+        "name": "Nombre del comercio",
+        "category": "Categoría",
+        "email": "Email de contacto",
+        "phone": "Teléfono / WhatsApp",
+        "city": "Ciudad",
+        "description": "Cuéntanos qué te hace especial"
+      },
+      "submit": "Continuar"
+    },
+    "dashboard": {
+      "title": "Panel",
+      "salesToday": "Ventas hoy",
+      "ordersOpen": "Pedidos abiertos",
+      "nextPayout": "Próximo depósito"
+    }
+  },
+  "checkout": {
+    "summary": "Resumen",
+    "subtotal": "Subtotal",
+    "fee": "Servicio Múul",
+    "total": "Total",
+    "pay": "Pagar",
+    "secured": "Pago protegido. El comercio recibe los fondos cuando confirmas la entrega."
+  },
+  "common": {
+    "loading": "Cargando…",
+    "error": "Algo salió mal. Intenta de nuevo.",
+    "save": "Guardar",
+    "cancel": "Cancelar"
+  }
+}

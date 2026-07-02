@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..900;1,9..144,300..900&family=DM+Sans:opsz,wght@9..40,300..700&family=JetBrains+Mono:wght@400;500&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-hueso text-tinta font-sans antialiased;
+  }
+
+  h1, h2, h3, h4 {
+    @apply font-display font-light tracking-display;
+  }
+}
+
+@layer components {
+  .display-xl {
+    @apply font-display font-light text-6xl md:text-8xl leading-[0.9] tracking-display;
+  }
+  .display-lg {
+    @apply font-display font-light text-4xl md:text-6xl leading-[0.95] tracking-display;
+  }
+  .display-md {
+    @apply font-display font-light text-3xl md:text-5xl leading-tight tracking-display;
+  }
+  .label {
+    @apply font-mono text-[10px] uppercase tracking-[0.2em] text-tinta/60;
+  }
+}

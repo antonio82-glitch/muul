@@ -1,0 +1,67 @@
+{
+  "brand": {
+    "name": "Múul",
+    "tagline": "The Riviera's businesses, together in one place.",
+    "subTagline": "Platform · Commerce · Community"
+  },
+  "nav": {
+    "discover": "Discover",
+    "merchants": "For businesses",
+    "signIn": "Sign in",
+    "signOut": "Sign out",
+    "myOrders": "My orders",
+    "dashboard": "Dashboard"
+  },
+  "home": {
+    "hero": {
+      "title": "Local life, one click away.",
+      "sub": "Book tours, buy local art, pay at any partner business across the Riviera Maya.",
+      "cta": "Explore businesses",
+      "ctaMerchant": "I run a business"
+    },
+    "categories": {
+      "title": "By category"
+    },
+    "near": {
+      "title": "Near you",
+      "empty": "Enable location to see nearby businesses."
+    }
+  },
+  "merchant": {
+    "onboarding": {
+      "title": "Join Múul",
+      "step1": "Tell us about your business",
+      "step2": "Verify your identity with Stripe",
+      "step3": "Upload your first listing",
+      "fields": {
+        "name": "Business name",
+        "category": "Category",
+        "email": "Contact email",
+        "phone": "Phone / WhatsApp",
+        "city": "City",
+        "description": "Tell us what makes you special"
+      },
+      "submit": "Continue"
+    },
+    "dashboard": {
+      "title": "Dashboard",
+      "salesToday": "Today's sales",
+      "ordersOpen": "Open orders",
+      "nextPayout": "Next payout"
+    }
+  },
+  "checkout": {
+    "summary": "Summary",
+    "subtotal": "Subtotal",
+    "fee": "Múul service fee",
+    "total": "Total",
+    "pay": "Pay",
+    "secured": "Protected payment. The business receives funds once you confirm delivery."
+  },
+  "common": {
+    "loading": "Loading…",
+    "error": "Something went wrong. Try again.",
+    "save": "Save",
+    "cancel": "Cancel"
+  }
+}
