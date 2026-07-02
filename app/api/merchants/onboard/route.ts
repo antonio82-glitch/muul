@@ -20,6 +20,7 @@ const onboardSchema = z.object({
   phone: z.string().optional(),
   city: z.string().optional(),
   description: z.string().optional(),
+  logoUrl: z.string().optional(),
   categoryId: z.string().uuid().optional(),
 });
 
